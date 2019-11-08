@@ -10,36 +10,6 @@
       targetConnections="88c81723"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       fillColor="#c9e7b7">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6893"
-        font="1|Arial|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-        source="6877"
-        target="6889">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_6858.xml#6858"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6895"
-        font="1|Arial|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-        source="6877"
-        target="6890">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_6860.xml#6860"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6894"
-        font="1|Arial|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-        source="6877"
-        target="6891">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_6859.xml#6859"/>
-    </sourceConnections>
     <bounds
         x="71"
         y="226"
@@ -163,51 +133,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6889"
-      targetConnections="6893"
-      font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-      fillColor="#c9e7b7">
-    <bounds
-        x="84"
-        y="120"
-        width="133"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_6851.xml#6851"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6890"
-      targetConnections="6895"
-      font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-      fillColor="#c9e7b7">
-    <bounds
-        x="404"
-        y="120"
-        width="133"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_6852.xml#6852"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6891"
-      targetConnections="6894"
-      font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-      fillColor="#c9e7b7">
-    <bounds
-        x="251"
-        y="120"
-        width="133"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_6853.xml#6853"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="6892"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       fillColor="#c9e7b7">
@@ -293,34 +218,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6900"
-      targetConnections="6904"
-      font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-      fillColor="#c9e7b7">
-    <bounds
-        x="611"
-        y="120"
-        width="133"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_6854.xml#6854"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="6903"
       targetConnections="6905"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6904"
-        font="1|Arial|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
-        source="6903"
-        target="6900">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_6863.xml#6863"/>
-    </sourceConnections>
     <bounds
         x="611"
         y="246"
