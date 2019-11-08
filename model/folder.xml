@@ -1,0 +1,11 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArchiMetal"
+    id="54525ee5"
+    purpose="This Case Study demonstrates the value of the ArchiMate 2.1 modeling language for planning and expressing complex business transformation.&#xD;&#xA;&#xD;&#xA;The Case Study is about a fictitious manufacturer named ArchiMetal. Through high-level architecture modeling, the ArchiMate language illuminates the coherence between an organization, and its processes, applications, and infrastructure. This Case Study presents examples of ArchiMate models that can be elaborated as necessary for analysis, communication, decision support, and implementation."
+    version="4.4.0">
+  <properties
+      key="FormComment"
+      value="This form illustrates the Form plugin for Archi.&#xA;&#xA;It creates controls showing up some Archi components' properties. It replaces the description field by the value of property &quot;description_xxx&quot; if it exists, where &quot;xxx&quot; is the value of the model's property &quot;language&quot;.&#xA;&#xA;For instance, if the model has got a &quot;language&quot; property with value &quot;fr&quot;, then the &quot;documentation&quot; field will be replaced by the value of the property &quot;documentation_fr&quot; if any."/>
+  <metadata/>
+</archimate:ArchimateModel>

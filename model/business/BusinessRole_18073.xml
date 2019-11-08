@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account manager"
+    id="18073">
+  <properties
+      key="Cost"
+      value="$30,000"/>
+</archimate:BusinessRole>

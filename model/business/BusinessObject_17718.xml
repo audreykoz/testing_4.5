@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accepted proposal"
+    id="17718">
+  <properties
+      key="Cost"
+      value="$45,000"/>
+</archimate:BusinessObject>
